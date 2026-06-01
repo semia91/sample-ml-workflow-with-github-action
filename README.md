@@ -472,7 +472,7 @@ GitHub Actions uses **Repository Secrets** (not environment variables in your co
 
 ## 🤝 Contributing
 
-Found a bug or want to add a feature? Feel free to open an issue or submit a pull request!
+Found a bug or want to add a feature? Feel free to open an issue or submit a pull request! 
 
 ---
 
